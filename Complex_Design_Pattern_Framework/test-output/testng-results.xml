@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T14:54:42 IST" name="Default suite" finished-at="2023-01-07T14:55:23 IST" duration-ms="40830">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T14:54:42 IST" name="Default test" finished-at="2023-01-07T14:55:23 IST" duration-ms="40830">
+      <class name="medifox_Test.PatientRegistration_Test">
+        <test-method is-config="true" signature="basicRequisites()[pri:0, instance:medifox_Test.PatientRegistration_Test@4567f35d]" started-at="2023-01-07T14:54:42 IST" name="basicRequisites" finished-at="2023-01-07T14:55:12 IST" duration-ms="30026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicRequisites -->
+        <test-method signature="login()[pri:0, instance:medifox_Test.PatientRegistration_Test@4567f35d]" started-at="2023-01-07T14:55:12 IST" name="login" finished-at="2023-01-07T14:55:19 IST" duration-ms="7157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:medifox_Test.PatientRegistration_Test@4567f35d]" started-at="2023-01-07T14:55:20 IST" name="closeDown" finished-at="2023-01-07T14:55:23 IST" duration-ms="3150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- medifox_Test.PatientRegistration_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <parameter name="edge" value="webdriver.edge.driver"></parameter>
+  <parameter name="driverPath" value="F:\\Libraries/msedgedriver.exe"></parameter>
+  
+  <classes>
+  <class name="baseClasses.BaseClass_Knowledgeware"></class>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
